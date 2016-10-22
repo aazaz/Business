@@ -1,4 +1,5 @@
 # folder logs
 logs/
+
 # txt-files
-docs/*.txt
+docs/*.php
